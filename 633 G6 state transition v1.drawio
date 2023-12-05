@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T05:50:04.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="n5ew96Agu5mD_lG_Z-kz" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T21:44:59.982Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XNRAKJ88Hyjjg-KpIba9" version="22.1.5" type="github">
   <diagram id="aTP3XpXiv6puy6IPepzB" name="Page-1">
-    <mxGraphModel dx="3030" dy="2737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3768" dy="3060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -833,12 +833,12 @@
         <mxCell id="ikMGgeHWAitUNLGqueg9-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;" parent="1" source="ikMGgeHWAitUNLGqueg9-184" target="ikMGgeHWAitUNLGqueg9-187" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikMGgeHWAitUNLGqueg9-183" value="select &#39;Analyze&#39; option" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=23;" parent="ikMGgeHWAitUNLGqueg9-182" vertex="1" connectable="0">
+        <mxCell id="ikMGgeHWAitUNLGqueg9-183" value="select &#39;Previous Uploads&#39; option" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=23;" parent="ikMGgeHWAitUNLGqueg9-182" vertex="1" connectable="0">
           <mxGeometry x="-0.1628" y="3" relative="1" as="geometry">
             <mxPoint x="13" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cor4A3JT208yTX_fM7cB-3" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ikMGgeHWAitUNLGqueg9-184" target="cor4A3JT208yTX_fM7cB-1">
+        <mxCell id="cor4A3JT208yTX_fM7cB-3" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="ikMGgeHWAitUNLGqueg9-184" target="cor4A3JT208yTX_fM7cB-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikMGgeHWAitUNLGqueg9-184" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Displaying &#39;Choose File&#39; Menu&lt;br&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;[Composite]&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -847,7 +847,7 @@
         <mxCell id="ikMGgeHWAitUNLGqueg9-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;" parent="1" source="ikMGgeHWAitUNLGqueg9-187" target="ikMGgeHWAitUNLGqueg9-193" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikMGgeHWAitUNLGqueg9-186" value="Select &#39;Analyze Score&#39; bottom" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=23;" parent="ikMGgeHWAitUNLGqueg9-185" vertex="1" connectable="0">
+        <mxCell id="ikMGgeHWAitUNLGqueg9-186" value="Click &#39;Course Number&#39; bottom" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=23;" parent="ikMGgeHWAitUNLGqueg9-185" vertex="1" connectable="0">
           <mxGeometry x="0.1143" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -861,7 +861,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ikMGgeHWAitUNLGqueg9-187" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Opening Analysis system&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1752.5" y="7030" width="420" height="140" as="geometry" />
+          <mxGeometry x="1972.5" y="7030" width="420" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ikMGgeHWAitUNLGqueg9-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=23;" parent="1" source="ikMGgeHWAitUNLGqueg9-190" target="ikMGgeHWAitUNLGqueg9-181" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -877,27 +877,30 @@
         <mxCell id="ikMGgeHWAitUNLGqueg9-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=23;" parent="1" source="ikMGgeHWAitUNLGqueg9-193" target="ikMGgeHWAitUNLGqueg9-196" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikMGgeHWAitUNLGqueg9-192" value="Select &#39;choose sheet&#39; buttom&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=23;" parent="ikMGgeHWAitUNLGqueg9-191" vertex="1" connectable="0">
+        <mxCell id="ikMGgeHWAitUNLGqueg9-192" value="Click colored spot on the chart" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=23;" parent="ikMGgeHWAitUNLGqueg9-191" vertex="1" connectable="0">
           <mxGeometry x="-0.2357" y="6" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ikMGgeHWAitUNLGqueg9-193" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Displaying general score information&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="6750" width="420" height="140" as="geometry" />
+        <mxCell id="MZ9IH1SyV8-FqZTMycKQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="ikMGgeHWAitUNLGqueg9-193" target="MZ9IH1SyV8-FqZTMycKQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZ9IH1SyV8-FqZTMycKQ-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Click another Course Number bottom&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MZ9IH1SyV8-FqZTMycKQ-2">
+          <mxGeometry x="-0.2286" y="13" relative="1" as="geometry">
+            <mxPoint x="62" y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikMGgeHWAitUNLGqueg9-193" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Displaying score quadrant, SD and correlation between time and score&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1970" y="6750" width="420" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ikMGgeHWAitUNLGqueg9-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;" parent="1" source="ikMGgeHWAitUNLGqueg9-196" target="ikMGgeHWAitUNLGqueg9-199" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikMGgeHWAitUNLGqueg9-195" value="Select &#39;Details&#39; option" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=23;" parent="ikMGgeHWAitUNLGqueg9-194" vertex="1" connectable="0">
-          <mxGeometry x="-0.0048" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ikMGgeHWAitUNLGqueg9-196" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Displaying and Comparing information from different sheets&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1740" y="6460" width="420" height="140" as="geometry" />
+        <mxCell id="ikMGgeHWAitUNLGqueg9-196" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Displaying Course, Score and time information&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1960" y="6460" width="420" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ikMGgeHWAitUNLGqueg9-199" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Displaying student scores detailed information&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1740" y="6200" width="420" height="140" as="geometry" />
+          <mxGeometry x="1960" y="6200" width="420" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ikMGgeHWAitUNLGqueg9-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;" parent="1" source="ikMGgeHWAitUNLGqueg9-202" target="ikMGgeHWAitUNLGqueg9-205" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1443,15 +1446,18 @@
           <mxGeometry y="110" width="195" height="35" as="geometry" />
         </mxCell>
         <mxCell id="lKV7PIFzjXJklTU-KRr2-8" value="Displaying Downloading page" style="ellipse;whiteSpace=wrap;html=1;fontSize=30;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="2130" y="7330" width="300" height="170" as="geometry" />
+          <mxGeometry x="2350" y="7330" width="300" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="cor4A3JT208yTX_fM7cB-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="cor4A3JT208yTX_fM7cB-1" target="ikMGgeHWAitUNLGqueg9-205">
+        <mxCell id="cor4A3JT208yTX_fM7cB-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" parent="1" source="cor4A3JT208yTX_fM7cB-1" target="ikMGgeHWAitUNLGqueg9-205" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="755" y="6715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cor4A3JT208yTX_fM7cB-1" value="Download Excel Template" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="cor4A3JT208yTX_fM7cB-1" value="Download Excel Template" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="714.5" y="6720" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MZ9IH1SyV8-FqZTMycKQ-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Displaying comparison information in the quadrant and updated SD and correlation&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2500" y="6550" width="320" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
